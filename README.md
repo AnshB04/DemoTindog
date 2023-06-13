@@ -1,2 +1,2 @@
-# Demo_Tindog
+# DemoTindog
 Website similar to tinder but for dogs😅. Its just for practice of bootstrap CSS.
